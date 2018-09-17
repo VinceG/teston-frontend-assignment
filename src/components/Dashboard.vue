@@ -17,7 +17,7 @@
                     </div>
                     <div class="column is-2">
                         <div class="is-pulled-right">
-                            <timeline :playing="playing" :time="time" :duration="duration" />
+                            <timeline />
                         </div>
                     </div>
                 </div>
